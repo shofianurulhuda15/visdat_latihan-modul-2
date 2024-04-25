@@ -1,0 +1,15 @@
+body{
+  background-color: #db9f9b;
+  font-family: 'Courier New', Courier, monospace;
+}
+.circle-small {
+    fill: #719abb; 
+  }
+  
+.circle-large {
+    fill: #7fcc90; 
+  }
+  
+circle:hover {
+    opacity: 0.7; 
+  }
